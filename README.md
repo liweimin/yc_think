@@ -50,8 +50,9 @@ versions/
 
 1. [项目总览](docs/PROJECT_OVERVIEW.md)
 2. [交接说明](docs/HANDOFF_2026-03-25.md)
-3. [界定问题六问法](docs/method/界定问题六问法.md)
-4. [yc_think v0.2 升级分析](docs/design/yc_think_v0_2升级分析.md)
+3. [下一台 Codex 接班说明](docs/NEXT_SESSION_BOOTSTRAP.md)
+4. [界定问题六问法](docs/method/界定问题六问法.md)
+5. [yc_think v0.2 升级分析](docs/design/yc_think_v0_2升级分析.md)
 
 ## 原始素材
 
