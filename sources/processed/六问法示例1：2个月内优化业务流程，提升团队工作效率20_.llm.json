@@ -1,0 +1,771 @@
+{
+  "source_file": "六问法示例1：2个月内优化业务流程，提升团队工作效率20_.xmind",
+  "sheet_title": "画布 1 copy copy",
+  "root": {
+    "title": "如何提高团队工作效率？",
+    "children": [
+      {
+        "title": "界定问题",
+        "children": [
+          {
+            "title": "目标是什么？",
+            "children": [
+              {
+                "title": "两个月内优化业务流程，将团队工作效率提升20%",
+                "children": [],
+                "callouts": [
+                  {
+                    "title": "符合smart原则",
+                    "children": [],
+                    "callouts": []
+                  }
+                ]
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "现状是什么？",
+            "children": [
+              {
+                "title": "目前没有优化流程，团队工作效率没有提升，如果维持现状，两个月内流程优化得不到落实，团队工作效率提升仍为0",
+                "children": [],
+                "callouts": [
+                  {
+                    "title": "现状跟目标保持在同一维度上",
+                    "children": [],
+                    "callouts": []
+                  }
+                ]
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "差距是什么？",
+            "children": [
+              {
+                "title": "两个月优化业务流程，团队工作效率提升20%",
+                "children": [],
+                "callouts": [
+                  {
+                    "title": "符合公式：差距=目标-现状",
+                    "children": [],
+                    "callouts": []
+                  }
+                ]
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "目标的背后目的是什么？",
+            "children": [
+              {
+                "title": "1why",
+                "children": [
+                  {
+                    "title": "为什么【两个月内优化业务流程，将团队工作效率提升20%】呢？",
+                    "children": [
+                      {
+                        "title": "避免部分执行环节复杂易错，导致工作容易逾期",
+                        "children": [],
+                        "callouts": []
+                      },
+                      {
+                        "title": "想要提升效能后，将空余成员挑出来做其他业务",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": [
+                      {
+                        "title": "句式：为什么＋【准确描述的问题】？",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ]
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "1.5why",
+                "children": [
+                  {
+                    "title": "【避免部分执行环节复杂易错，导致工作容易逾期】就一定要【两个月内优化业务流程，将团队工作效率提升20%】吗？",
+                    "children": [
+                      {
+                        "title": "不一定",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": [
+                      {
+                        "title": "0.5why验证时，务必严格遵照句式：【回答】就一定要【提问】吗？",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "【想要提升效能后，将空余成员挑出来做其他业务】就一定要【两个月内优化业务流程，将团队工作效率提升20%】吗？",
+                    "children": [
+                      {
+                        "title": "不一定",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "那现在想解决的问题是哪一个？ （加粗的是要解决的问题）",
+                    "children": [
+                      {
+                        "title": "避免部分执行环节复杂易错，导致工作容易逾期",
+                        "children": [],
+                        "callouts": []
+                      },
+                      {
+                        "title": "想要提升效能后，将空余成员挑出来做其他业务",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "要解决的问题是【新目标】（原目标是初步解决方案）",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      },
+                      {
+                        "title": "两个月内优化业务流程，将团队工作效率提升20%",
+                        "children": [],
+                        "callouts": []
+                      },
+                      {
+                        "title": "问题列表来自于原来设定的目标和基于原目标给出的回答",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "2why",
+                "children": [
+                  {
+                    "title": "【想要提升效能后，将空余成员挑出来做其他业务】，除了【两个月内优化业务流程，将团队工作效率提升20%】之外，还有其他办法吗？",
+                    "children": [
+                      {
+                        "title": "招聘新的人员",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "经确认，原目标为最优解",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      }
+                    ],
+                    "callouts": [
+                      {
+                        "title": "如果确信【新目标】是最终目的，则针对【新目标】问：有没有其他实现【新目标】的办法？",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ]
+                  }
+                ],
+                "callouts": []
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "导致现状的原因",
+            "children": [
+              {
+                "title": "1why",
+                "children": [
+                  {
+                    "title": "为什么【目前没有优化流程，团队工作效率没有提升，如果维持现状，两个月内流程优化得不到落实，团队工作效率提升仍为0】？",
+                    "children": [
+                      {
+                        "title": "执行者40%",
+                        "children": [
+                          {
+                            "title": "1.1 任务工期时间充足，不优化也不影响进度 30%",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "1.2 想要优化流程，不知道如何做 10%",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ],
+                        "callouts": []
+                      },
+                      {
+                        "title": "管理者60%",
+                        "children": [
+                          {
+                            "title": "1.3 未发现低效环节，未能及时优化 20%",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "1.4 不知道如何优化耗时环节 40%",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": [
+                      {
+                        "title": "句式：为什么＋【准确描述的问题】？",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "原因比重之和为100%",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "1.5why",
+                "children": [
+                  {
+                    "title": "【1.1 任务工期时间充足，不优化也不影响进度 30%】一定会导致【目前没有优化流程，团队工作效率没有提升，如果维持现状，两个月内流程优化得不到落实，团队工作效率提升仍为0】吗？",
+                    "children": [
+                      {
+                        "title": "不会，而是",
+                        "children": [
+                          {
+                            "title": "1.5 不了解工作提升效能价值，缺乏效能优化意识 30%",
+                            "children": [],
+                            "callouts": [
+                              {
+                                "title": "处理这一级可防止问题发生，不再往下问了",
+                                "children": [],
+                                "callouts": []
+                              }
+                            ]
+                          }
+                        ],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "【1.2 想要优化流程，不知道如何做 10%】一定会导致【目前没有优化流程，团队工作效率没有提升，如果维持现状，两个月内流程优化得不到落实，团队工作效率提升仍为0】吗？",
+                    "children": [
+                      {
+                        "title": "不会，而是",
+                        "children": [
+                          {
+                            "title": "1.6 发觉低效耗时环节，自己不会优化，也未主动反馈求助 10%",
+                            "children": [],
+                            "callouts": [
+                              {
+                                "title": "找到更直接原因，可作为2why探寻的问题",
+                                "children": [],
+                                "callouts": []
+                              }
+                            ]
+                          }
+                        ],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "【1.3 未发现低效环节，未能及时优化 20%】一定会导致【目前没有优化流程，团队工作效率没有提升，如果维持现状，两个月内流程优化得不到落实，团队工作效率提升仍为0】吗？",
+                    "children": [
+                      {
+                        "title": "不会，而是",
+                        "children": [
+                          {
+                            "title": "1.7 未能告知执行者及时发现反馈耗时环节 5%",
+                            "children": [],
+                            "callouts": [
+                              {
+                                "title": "找到更直接原因，可作为2why探寻的问题",
+                                "children": [],
+                                "callouts": []
+                              }
+                            ]
+                          },
+                          {
+                            "title": "1.8 对执行流程缺乏熟悉度，未发现耗时环节 15%",
+                            "children": [],
+                            "callouts": [
+                              {
+                                "title": "处理这一级可防止问题发生，不再往下问了",
+                                "children": [],
+                                "callouts": []
+                              }
+                            ]
+                          }
+                        ],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "【1.4 不知道如何优化耗时环节 40%】一定会导致【目前没有优化流程，团队工作效率没有提升，如果维持现状，两个月内流程优化得不到落实，团队工作效率提升仍为0】吗？",
+                    "children": [
+                      {
+                        "title": "是的，通过验证",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "已经是最直接原因，可作为2why探寻的问题",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      }
+                    ],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "2why",
+                "children": [
+                  {
+                    "title": "为什么【1.4 不知道如何优化耗时环节 40%】？",
+                    "children": [
+                      {
+                        "title": "2.1 对业务执行流程环节不熟悉 10%",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "与1.8内容重复",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      },
+                      {
+                        "title": "2.2 缺少业务流程优化相关技能经验 30%",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "为什么【1.6 发觉低效耗时环节，自己不会优化，也未主动反馈求助 10%】？",
+                    "children": [
+                      {
+                        "title": "2.3 未制定详细业务流程效能评估与反馈机制 10%",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "为什么【1.7 未能告知执行者及时发现反馈耗时环节 5%】？",
+                    "children": [
+                      {
+                        "title": "2.4 未制定详细业务效能评估与反馈机制 2%",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "与2.3内容重复",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      },
+                      {
+                        "title": "2.5 认为能完成任务就行，不优化效能对结果影响不大 3%",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "原因比重之和=原因1.4 40%",
+                    "children": [],
+                    "callouts": []
+                  },
+                  {
+                    "title": "原因比重之和=原因1.7 5%",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "2.5why",
+                "children": [
+                  {
+                    "title": "【2.2 缺少业务流程优化相关技能经验 30%】一定会导致【1.4 不知道如何优化耗时环节 40%】吗？",
+                    "children": [
+                      {
+                        "title": "是的，通过验证",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "处理这一级可防止问题发生，不再往下问了",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "【2.3 未制定详细业务流程效能评估与反馈机制 10%】一定会导致【1.6 发觉低效耗时环节，自己不会优化，也未主动反馈求助 10%】吗？",
+                    "children": [
+                      {
+                        "title": "是的，通过验证",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "处理这一级可防止问题发生，不再往下问了",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "【2.5 认为能完成任务就行，不优化效能对结果影响不大 3%】一定会导致【1.7 未能告知执行者及时发现反馈耗时环节 5%】吗？",
+                    "children": [
+                      {
+                        "title": "是的，通过验证",
+                        "children": [],
+                        "callouts": [
+                          {
+                            "title": "处理这一级可防止问题发生，不再往下问了",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ]
+                      }
+                    ],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "差距真正的原因",
+            "children": [
+              {
+                "title": "目标是否合理",
+                "children": [
+                  {
+                    "title": "目标内容合理",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "现状是否可改变",
+                "children": [
+                  {
+                    "title": "限制因素",
+                    "children": [
+                      {
+                        "title": "无",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "可变因素",
+                    "children": [
+                      {
+                        "title": "管理者 67%",
+                        "children": [
+                          {
+                            "title": "2.2 缺少业务流程优化相关技能经验 30%",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "1.8对执行流程缺乏熟悉度，未发现耗时环节 25%",
+                            "children": [],
+                            "callouts": [
+                              {
+                                "title": "25%=15%（原因1.8）+10%（原因2.1）",
+                                "children": [],
+                                "callouts": []
+                              }
+                            ]
+                          },
+                          {
+                            "title": "2.3未制定详细业务流程效能评估与反馈机制 12%",
+                            "children": [],
+                            "callouts": [
+                              {
+                                "title": "25%=10%（原因2.3）+2%（原因2.4）",
+                                "children": [],
+                                "callouts": []
+                              }
+                            ]
+                          }
+                        ],
+                        "callouts": []
+                      },
+                      {
+                        "title": "执行者 33%",
+                        "children": [
+                          {
+                            "title": "1.5 不了解工作提升效能价值，缺乏效能优化意识 30%",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "2.5 认为能完成任务就行，不优化效能对结果影响不大 3%",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": []
+                  },
+                  {
+                    "title": "原因之和=100%",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": [
+                  {
+                    "title": "将第5问的原因按照可变因素和限制因素两个维度重新排列",
+                    "children": [],
+                    "callouts": []
+                  }
+                ]
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "重新界定真正的问题",
+            "children": [
+              {
+                "title": "针对目标",
+                "children": [
+                  {
+                    "title": "2个月内优化业务流程，提升团队工作效率20%",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": [
+                  {
+                    "title": "写出最终确定的目标",
+                    "children": [],
+                    "callouts": []
+                  }
+                ]
+              },
+              {
+                "title": "针对现状",
+                "children": [
+                  {
+                    "title": "将可改变的原因作为改造对象",
+                    "children": [
+                      {
+                        "title": "管理者提升流程优化技能与监督机制",
+                        "children": [
+                          {
+                            "title": "学习业务系统流程设计与优化技能",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "体验参与熟悉业务相关流程",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "制定繁琐低效流程的识别标准，并持续迭代",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "制定项目工时评估定期反馈机制",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ],
+                        "callouts": []
+                      },
+                      {
+                        "title": "执行者提升流程优化意识",
+                        "children": [
+                          {
+                            "title": "项目效能观念价值认知培训",
+                            "children": [],
+                            "callouts": []
+                          },
+                          {
+                            "title": "重要效能提升给予激励措施",
+                            "children": [],
+                            "callouts": []
+                          }
+                        ],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": [
+                      {
+                        "title": "针对原因给出大致对策",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "将不可改变的原因作为限制条件或给出替代方案",
+                    "children": [
+                      {
+                        "title": "暂无",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ],
+                    "callouts": [
+                      {
+                        "title": "标注限制因素或给出替代方案",
+                        "children": [],
+                        "callouts": []
+                      }
+                    ]
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "一句话总结真正的问题",
+                "children": [
+                  {
+                    "title": "如何在2个月内，通过让管理者提升流程优化技能与监督机制、执行者提升流程优化意识，以达到优化业务流程，将完成任务效率提升20%？",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": [
+                  {
+                    "title": "符合句式：{在（不可改变因素123…）无法改变的前提下}，如何在（目标时限）内，做到{（不可改变因素的替代措施123..）、}（可改变因素的大致对策123…），以达成XX目标。",
+                    "children": [],
+                    "callouts": []
+                  }
+                ]
+              }
+            ],
+            "callouts": []
+          }
+        ],
+        "callouts": []
+      },
+      {
+        "title": "构建对策框架",
+        "children": [
+          {
+            "title": "项目管理层",
+            "children": [
+              {
+                "title": "一周内，制定项目工时评估定期反馈机制",
+                "children": [],
+                "callouts": []
+              },
+              {
+                "title": "半月内，学习业务系统流程设计与优化技能",
+                "children": [
+                  {
+                    "title": "主题阅读流程优化书籍",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "三周内，体验参与熟悉业务相关流程",
+                "children": [
+                  {
+                    "title": "带动下属同步按流程执行",
+                    "children": [],
+                    "callouts": []
+                  }
+                ],
+                "callouts": []
+              },
+              {
+                "title": "一个月内，制定繁琐低效流程的识别标准，并持续迭代",
+                "children": [],
+                "callouts": []
+              }
+            ],
+            "callouts": []
+          },
+          {
+            "title": "项目执行层",
+            "children": [
+              {
+                "title": "三周内，项目效能观念价值认知培训",
+                "children": [],
+                "callouts": []
+              },
+              {
+                "title": "一个月内，重要效能提升给予激励措施",
+                "children": [],
+                "callouts": []
+              }
+            ],
+            "callouts": []
+          }
+        ],
+        "callouts": [
+          {
+            "title": "结构顺序：整体是优化流程涉及的各主体",
+            "children": [],
+            "callouts": []
+          }
+        ]
+      }
+    ],
+    "callouts": []
+  }
+}

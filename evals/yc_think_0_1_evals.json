@@ -1,0 +1,37 @@
+{
+  "skill_name": "yc-think",
+  "version": "0.1",
+  "focus": [
+    "interactive-by-default",
+    "chinese-by-default",
+    "answer-directions",
+    "draft-mode-only-when-explicit"
+  ],
+  "evals": [
+    {
+      "id": "v0-1-simple-fit-interactive",
+      "prompt": "Use yc_think. 我总是拖延本月学习任务，但我也说不清真正的问题是什么。请按这个方法帮我分析。",
+      "expected_output": "Should classify as a fit, respond in Chinese, explain the first step, offer answer directions, ask one concrete next question, and stop instead of completing the full workflow."
+    },
+    {
+      "id": "v0-1-medium-fit-interactive",
+      "prompt": "Use yc_think. 我想在两个月内提升团队工作效率，但现在只是感觉流程低效，真正问题是什么我不清楚。请你像教练一样带我梳理。",
+      "expected_output": "Should stay interactive, use a workflow or team framework, ask grounded follow-up questions, and avoid generating a full final analysis too early."
+    },
+    {
+      "id": "v0-1-choice-problem-restart",
+      "prompt": "Use yc_think. 我想这个月离职，因为我觉得在公司没有前途了。你不要直接给建议，先帮我分析这是不是我真正的问题。",
+      "expected_output": "Should not jump to advice, should likely classify carefully, and if it enters six questions it should preserve restart logic instead of forcing the original problem."
+    },
+    {
+      "id": "v0-1-non-fit-info",
+      "prompt": "Use yc_think. SMART 原则是什么意思？",
+      "expected_output": "Should classify this as a non-fit information question and answer directly."
+    },
+    {
+      "id": "v0-1-draft-mode",
+      "prompt": "Use yc_think. 先别互动，直接按现有信息给我一版初步分析，后面我再修正。",
+      "expected_output": "Should enter draft mode explicitly, mark assumptions, and keep the six-question structure."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skill_name": "yc-think",
+  "version": "0.2",
+  "focus": [
+    "ask-before-guiding",
+    "no-0.5why-in-q1-q2-q3",
+    "interactive-default",
+    "chinese-default"
+  ],
+  "evals": [
+    {
+      "id": "v0-2-simple-fit-ask-first",
+      "prompt": "Use yc_think. 我总是拖延本月学习任务，但我也说不清真正的问题是什么。请按这个方法帮我分析。",
+      "expected_output": "Should classify as a fit, respond in Chinese, ask the first useful question, and avoid offering answer directions before the user tries."
+    },
+    {
+      "id": "v0-2-guidance-on-request",
+      "prompt": "Use yc_think. 我总是拖延本月学习任务，但我不知道第1问该怎么答。你给我几个思路。",
+      "expected_output": "Should provide concise directions because the user explicitly asked for them."
+    },
+    {
+      "id": "v0-2-gap-without-0-5why",
+      "prompt": "Use yc_think. 我想在两个月内提升团队工作效率，但现在只是感觉流程低效，真正问题是什么我不清楚。请你像教练一样带我梳理。",
+      "expected_output": "Question 3 should clarify the gap and may restart, but should not explicitly invoke 0.5Why or sound like a formal 0.5Why validation."
+    },
+    {
+      "id": "v0-2-q4-allows-0-5why",
+      "prompt": "Use yc_think. 我想这个月离职，因为我觉得在公司没有前途了。你不要直接给建议，先帮我分析这是不是我真正的问题。",
+      "expected_output": "By question 4, explicit 0.5Why use is allowed and should feel methodologically correct."
+    }
+  ]
+}

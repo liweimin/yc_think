@@ -1,0 +1,7 @@
+interface:
+  display_name: "yc_think_0.1"
+  short_description: "Coach six-question problem clarification"
+  default_prompt: "Use $yc-think to help me clarify this problem with the six-question method."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,35 @@
+{
+  "skill_name": "yc-think",
+  "evals": [
+    {
+      "id": "simple-fit-personal-delay",
+      "prompt": "Use yc_think. 我总是拖延本月学习任务，但我也说不清真正的问题是什么。请按这个方法帮我分析。",
+      "expected_output": "Should classify this as a fit, run the full six-question workflow, use 0.5Why in question 4 and question 5, and produce a final real problem with constraints and changeable factors.",
+      "files": []
+    },
+    {
+      "id": "medium-fit-team-efficiency",
+      "prompt": "Use yc_think. 我想在两个月内提升团队工作效率，但目前只能感觉到流程低效，不知道真正问题在哪。请带我一步步梳理。",
+      "expected_output": "Should classify this as a fit, likely use a team or workflow framework, keep the process explicit, and produce a structured final problem statement and action directions.",
+      "files": []
+    },
+    {
+      "id": "complex-fit-job-choice-restart",
+      "prompt": "Use yc_think. 我想在这个月离职，因为我觉得在公司没有前途了。请帮我分析这个问题。",
+      "expected_output": "Should not blindly accept quitting as the real goal. It should classify the problem carefully, and if it enters the six-question flow it should likely restart after question 4 when a deeper goal appears.",
+      "files": []
+    },
+    {
+      "id": "non-fit-information",
+      "prompt": "Use yc_think. SMART 原则是什么意思？",
+      "expected_output": "Should classify this as a pure information question, explain why six questions is not the right tool, answer directly, and stop.",
+      "files": []
+    },
+    {
+      "id": "non-fit-emotion-first",
+      "prompt": "Use yc_think. 我现在非常烦，感觉什么都不想做。",
+      "expected_output": "Should classify this as emotional expression first, acknowledge the feeling, ask whether the user wants analysis or support, and avoid forcing the full six-question workflow immediately.",
+      "files": []
+    }
+  ]
+}
