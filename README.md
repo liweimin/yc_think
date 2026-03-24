@@ -12,12 +12,12 @@
 
 当前活跃版本：
 
-- [skills/yc-think](D:\code\0324_2025\skills\yc-think)
+- [skills/yc-think](skills/yc-think/SKILL.md)
 
 历史版本：
 
-- [yc-think-0-0](D:\code\0324_2025\versions\skills\yc-think-0-0)
-- [yc-think-0-1](D:\code\0324_2025\versions\skills\yc-think-0-1)
+- [yc-think-0-0](versions/skills/yc-think-0-0/SKILL.md)
+- [yc-think-0-1](versions/skills/yc-think-0-1/SKILL.md)
 
 当前活跃版定位：
 
@@ -48,30 +48,30 @@ versions/
 
 如果你第一次接手这个项目，建议先看：
 
-1. [项目总览](D:\code\0324_2025\docs\PROJECT_OVERVIEW.md)
-2. [交接说明](D:\code\0324_2025\docs\HANDOFF_2026-03-25.md)
-3. [界定问题六问法](D:\code\0324_2025\docs\method\界定问题六问法.md)
-4. [yc_think v0.2 升级分析](D:\code\0324_2025\docs\design\yc_think_v0_2升级分析.md)
+1. [项目总览](docs/PROJECT_OVERVIEW.md)
+2. [交接说明](docs/HANDOFF_2026-03-25.md)
+3. [界定问题六问法](docs/method/界定问题六问法.md)
+4. [yc_think v0.2 升级分析](docs/design/yc_think_v0_2升级分析.md)
 
 ## 原始素材
 
 原始方法素材保存在：
 
-- [sources/raw](D:\code\0324_2025\sources\raw)
+- [sources/raw](sources/raw)
 
 处理后的结构化素材保存在：
 
-- [sources/processed](D:\code\0324_2025\sources\processed)
+- [sources/processed](sources/processed)
 
 ## 测试材料
 
 手工测试和评测样例保存在：
 
-- [evals](D:\code\0324_2025\evals)
+- [evals](evals)
 
 真实测试对话记录保存在：
 
-- [evals/sessions](D:\code\0324_2025\evals\sessions)
+- [evals/sessions](evals/sessions)
 
 ## 命名说明
 

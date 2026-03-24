@@ -4,8 +4,8 @@
 
 这次升级基于真实测试会话：
 
-- 原始 session: [019d2086-9364-7370-bacd-9cea6da0c510.jsonl](D:\code\0324_2025\evals\sessions\raw\019d2086-9364-7370-bacd-9cea6da0c510.jsonl)
-- 可读整理稿: [019d2086-9364-7370-bacd-9cea6da0c510.md](D:\code\0324_2025\evals\sessions\parsed\019d2086-9364-7370-bacd-9cea6da0c510.md)
+- 原始 session: [019d2086-9364-7370-bacd-9cea6da0c510.jsonl](../../evals/sessions/raw/019d2086-9364-7370-bacd-9cea6da0c510.jsonl)
+- 可读整理稿: [019d2086-9364-7370-bacd-9cea6da0c510.md](../../evals/sessions/parsed/019d2086-9364-7370-bacd-9cea6da0c510.md)
 
 用户反馈：
 
@@ -139,6 +139,6 @@ v0.2 改成：
 
 为了保留版本：
 
-- [yc-think-0-0](D:\code\0324_2025\versions\skills\yc-think-0-0) 保留最早版本
-- [yc-think-0-1](D:\code\0324_2025\versions\skills\yc-think-0-1) 保留互动版初稿
-- [yc-think](D:\code\0324_2025\skills\yc-think) 作为当前活跃版 v0.2
+- [yc-think-0-0](../../versions/skills/yc-think-0-0/SKILL.md) 保留最早版本
+- [yc-think-0-1](../../versions/skills/yc-think-0-1/SKILL.md) 保留互动版初稿
+- [yc-think](../../skills/yc-think/SKILL.md) 作为当前活跃版 v0.2

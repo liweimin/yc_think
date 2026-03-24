@@ -19,7 +19,7 @@
 
 当前活跃版：
 
-- [skills/yc-think](D:\code\0324_2025\skills\yc-think)
+- [skills/yc-think](../skills/yc-think/SKILL.md)
 
 当前版本特征：
 
@@ -33,8 +33,8 @@
 
 为了方便回溯和对比，历史版本保存在：
 
-- [yc-think-0-0](D:\code\0324_2025\versions\skills\yc-think-0-0)
-- [yc-think-0-1](D:\code\0324_2025\versions\skills\yc-think-0-1)
+- [yc-think-0-0](../versions/skills/yc-think-0-0/SKILL.md)
+- [yc-think-0-1](../versions/skills/yc-think-0-1/SKILL.md)
 
 当前活跃版相当于：
 
@@ -78,17 +78,17 @@
 
 方法主文档：
 
-- [界定问题六问法](D:\code\0324_2025\docs\method\界定问题六问法.md)
+- [界定问题六问法](method/界定问题六问法.md)
 
 设计对齐文档：
 
-- [yc_think需求对齐](D:\code\0324_2025\docs\design\yc_think需求对齐.md)
-- [六问法Skill设计分析](D:\code\0324_2025\docs\design\六问法Skill设计分析.md)
+- [yc_think需求对齐](design/yc_think需求对齐.md)
+- [六问法Skill设计分析](design/六问法Skill设计分析.md)
 
 版本升级文档：
 
-- [yc_think v0.1 升级分析](D:\code\0324_2025\docs\design\yc_think_v0_1升级分析.md)
-- [yc_think v0.2 升级分析](D:\code\0324_2025\docs\design\yc_think_v0_2升级分析.md)
+- [yc_think v0.1 升级分析](design/yc_think_v0_1升级分析.md)
+- [yc_think v0.2 升级分析](design/yc_think_v0_2升级分析.md)
 
 ## 6. 当前已知测试重点
 

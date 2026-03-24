@@ -21,7 +21,7 @@
 
 下载位置：
 
-- [research/skill-creator](D:\code\0324_2025\research\skill-creator)
+- 本轮研究时下载到了本地 `research/skill-creator` 目录，但该研究目录未纳入当前仓库。
 
 结论：
 
@@ -633,8 +633,8 @@ running-six-questions/
 
 本地材料：
 
-- [界定问题六问法.md](D:\code\0324_2025\界定问题六问法.md)
-- [research/skill-creator/SKILL.md](D:\code\0324_2025\research\skill-creator\SKILL.md)
+- [界定问题六问法.md](../method/界定问题六问法.md)
+- `skill-creator` 的本地参考稿来自临时研究目录，未随仓库提交；如需重新核对，请在新环境再次安装官方 `skill-creator`。
 
 线上资料：
 
