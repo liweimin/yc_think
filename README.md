@@ -1,38 +1,50 @@
 # yc_think
 
-`yc_think` 是一个教练型元 skill，用“界定问题六问法”帮助用户把模糊、情绪化、方案化的问题，逐步转成一个结构清晰、可继续求解的真正问题。
+`yc_think` 当前更适合被理解成一个“给下一位 agent 的素材库”。
 
-当前这个仓库的目标不是一次性定稿，而是支持持续测试和迭代。重点是让它：
+这个仓库保存的不是一套已经定型的 skill，而是一整组原始 source、真实 session、训练文档、设计迭代记录，以及用户与 AI 在推进这个项目过程中的关键转向。它的目标是让下一位 agent 在吃完这些材料后，不只是“会六问法”，而是更有机会：
 
-- 能在 Codex 上稳定工作
-- 再迁移到 Claude Code 和 OpenClaw 继续测试
-- 即使换电脑、换账号，也能继续接着做
+- 理解六问法原始方法与边界
+- 理解用户是如何和 AI 互动、试错、修正的
+- 看见用户背后的真实目标、偏好与协作方式
+- 以后更像一个“思维教练顾问”，而不只是一个会执行流程的 skill
 
-## 当前状态
+## 当前重点
 
-当前活跃版本：
+当前主线不是继续打磨 `skills/yc-think`，而是：
 
-- [skills/yc-think](skills/yc-think/SKILL.md)
+- 保留完整原始 source
+- 保留完整原始 session
+- 给下一位 agent 一条高信号阅读路径
+- 补充项目过程中的关键启发、转向和用户画像
 
-历史版本：
+`skills/` 目录仍然保留，但现在更接近历史背景和阶段性产物，不是仓库的唯一重点。
 
-- [yc-think-0-0](versions/skills/yc-think-0-0/SKILL.md)
-- [yc-think-0-1](versions/skills/yc-think-0-1/SKILL.md)
+## 建议先看
 
-当前活跃版定位：
+如果你是下一位接手的 agent，建议按这个顺序进入：
 
-- `v0.2`
-- 默认互动
-- 默认中文
-- 第 1-3 问先问再看要不要给提示
-- `0.5Why` 只在第 4、5 问显式使用
+1. [docs/agent-handoff/README.md](docs/agent-handoff/README.md)
+2. [docs/agent-handoff/01-materials-map.md](docs/agent-handoff/01-materials-map.md)
+3. [docs/agent-handoff/02-project-trajectory.md](docs/agent-handoff/02-project-trajectory.md)
+4. [docs/agent-handoff/03-user-intent-and-coaching-guidance.md](docs/agent-handoff/03-user-intent-and-coaching-guidance.md)
+5. [docs/agent-handoff/04-next-agent-prompt.md](docs/agent-handoff/04-next-agent-prompt.md)
+6. [docs/六问法教练训练/README.md](docs/六问法教练训练/README.md)
+7. [evals/sessions/README.md](evals/sessions/README.md)
+
+如果要追原始依据，再回看：
+
+- [sources/raw](sources/raw)
+- [evals/sessions/raw](evals/sessions/raw)
 
 ## 仓库结构
 
 ```text
 docs/
+  agent-handoff/
   design/
   method/
+  六问法教练训练/
 evals/
   sessions/
 skills/
@@ -44,38 +56,21 @@ tools/
 versions/
 ```
 
-## 推荐先看
+## 材料分层
 
-如果你第一次接手这个项目，建议先看：
+可以把这个仓库理解成四层材料：
 
-1. [项目总览](docs/PROJECT_OVERVIEW.md)
-2. [交接说明](docs/HANDOFF_2026-03-25.md)
-3. [下一台 Codex 接班说明](docs/NEXT_SESSION_BOOTSTRAP.md)
-4. [界定问题六问法](docs/method/界定问题六问法.md)
-5. [yc_think v0.2 升级分析](docs/design/yc_think_v0_2升级分析.md)
+1. 原始层：`sources/raw/` 与 `evals/sessions/raw/`
+2. 可读层：`docs/method/`、`docs/六问法教练训练/`、`evals/sessions/parsed/`
+3. 演进层：`docs/design/` 与各类 handoff 文档
+4. 交接层：`docs/agent-handoff/`
 
-## 原始素材
+## 历史说明
 
-原始方法素材保存在：
+这个仓库最早是围绕“六问法教练型 skill”来搭建的，所以你仍然会看到：
 
-- [sources/raw](sources/raw)
+- 当前活跃 skill：[skills/yc-think](skills/yc-think/SKILL.md)
+- 历史版本：[versions/skills](versions/skills)
+- skill 设计文档：[docs/design](docs/design)
 
-处理后的结构化素材保存在：
-
-- [sources/processed](sources/processed)
-
-## 测试材料
-
-手工测试和评测样例保存在：
-
-- [evals](evals)
-
-真实测试对话记录保存在：
-
-- [evals/sessions](evals/sessions)
-
-## 命名说明
-
-项目展示名使用 `yc_think`。
-
-skill metadata 名称使用 `yc-think`，这样更符合通用 skill 校验器和跨平台代理对 `hyphen-case` 的偏好。用户显式调用时，仍然按 `yc_think` 来理解和触发。
+这些内容仍然重要，但现在应该作为“项目过程素材”来读，而不是默认把下一步理解成“继续改 skill”。
